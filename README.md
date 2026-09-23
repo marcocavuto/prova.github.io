@@ -1,6 +1,6 @@
 # marcocavuto.github.io
 
-Curriculum Vitae – Fall 2026
+Curriculum Vitae
 
 Family name: Cavuto
 Given name: Marco
