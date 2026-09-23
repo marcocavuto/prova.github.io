@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Marco Cavuto
 description: Marco Cavuto personal webpage
+
+author:
+  # Biographic information
+  avatar           : "Photo.png"
+  name             : "Marco Cavuto"  
+  bio              : "Phd student in Statistics & Computer Sciences"
+  location         : "Milan"
+  employer         : "Bocconi University"
+  uri              : # URL
+  email            : "marco.cavuto@phd.unibocconi.it" 
